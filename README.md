@@ -10,7 +10,7 @@ For things I've worked on, check out:
 - [ft: the remote file browser](https://github.com/lemondevxyz/ft)
 - [Implementation of coding problems in Go](https://github.com/lemondevxyz/dailycodingproblem.com)
 - [My blog that I write on occasionally](https://lemondev.xyz)
-- [And lastly, a server implementation of scgi in Common Lisp](https://github.com/lemondevxyz/cl-scgi) **🚧 in-development 🚧**
+- [And lastly, a server implementation of scgi in Common Lisp](https://github.com/lemondevxyz/cl-scgi)
 
 <!---
 lemondevxyz/lemondevxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
