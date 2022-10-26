@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ahmed Mazen, I go by the nickname lemondev
 - 👀 I’m interested in servers, clients and systems programming. Specifically how to design ✨ beautiful ✨ systems.
 - 🌱 I’m currently learning Common Lisp and furthering my knowledge in Modern JavaScript
-- 💞️ I’m looking to collaborate on anything that benefits Common Lisp's web ecosystem
+- 💞️ I’m looking to work in a software team. Be it on open source or closed source projects.
 - 📫 Reach me through `lemon at lemondev dot xyz` <sup><sub>job offers more than welcome</sup></sub>
 
 For things I've worked on, check out:
