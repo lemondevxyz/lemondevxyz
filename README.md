@@ -5,12 +5,12 @@
 - 📫 Reach me through `lemon at lemondev dot xyz` <sup><sub>job offers more than welcome</sup></sub>
 
 For things I've worked on, check out:
-- [An online menu I made for a restaurant](https://ff.lemondev.xyz)
-- [A website I made for an English institution](https://a2zenglishyemen.com)
+- [FiveFingers's website](https://fivefingers.com)
+- [A2Z - English Institution Website](https://a2zenglishyemen.com)
 - [ft: the remote file browser](https://github.com/lemondevxyz/ft)
-- [Implementation of coding problems in Go](https://github.com/lemondevxyz/dailycodingproblem.com)
-- [My blog that I write on occasionally](https://lemondev.xyz)
-- [And lastly, a server implementation of scgi in Common Lisp](https://github.com/lemondevxyz/cl-scgi)
+- [Go DailyCodingProblem.com implementation](https://github.com/lemondevxyz/dailycodingproblem.com)
+- [My blog](https://lemondev.xyz)
+- [cl-scgi: an implementation of the SCGI protocol in Common Lisp](https://github.com/lemondevxyz/cl-scgi)
 
 <!---
 lemondevxyz/lemondevxyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
