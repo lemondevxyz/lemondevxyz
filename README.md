@@ -5,7 +5,7 @@
 - 📫 Reach me through `lemon at lemondev dot xyz` <sup><sub>job offers more than welcome</sup></sub>
 
 For things I've worked on, check out:
-- [FiveFingers's website](https://fivefingers.com)
+- [Five Fingers website](https://fivefingersye.com)
 - [A2Z - English Institution Website](https://a2zenglishyemen.com)
 - [ft: the remote file browser](https://github.com/lemondevxyz/ft)
 - [Go DailyCodingProblem.com implementation](https://github.com/lemondevxyz/dailycodingproblem.com)
